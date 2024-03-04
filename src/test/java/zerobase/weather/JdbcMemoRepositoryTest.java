@@ -4,8 +4,6 @@ import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.transaction.annotation.Transactional;
-import zerobase.weather.domain.Memo;
-import zerobase.weather.repository.JdbcMemoRepository;
 
 import java.util.List;
 import java.util.Optional;
